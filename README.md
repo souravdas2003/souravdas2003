@@ -1,16 +1,17 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**souravdas2003/souravdas2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🏠 I am Sourav,working as an Full Stack Developer intern at Project28
+ 
+ 💻 I,am a full stack MERN Developer and a content writer on twitter
+ 
+ 👨‍🎓 Undergraduate Student at RCCIIT, Kolkata (B.tech, IT) with a CGPA of 9.33 (Till 2nd semester)
+ 
+ 🌱 I’m currently learning Fabric JS & DSA
+ 
+ 💕 Interests: Listening songs, drawing and football ⚽
 
-Here are some ideas to get you started:
+ 💬 Ask me about Web Dev & Open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 😄 Pronouns: he/him
+
+
