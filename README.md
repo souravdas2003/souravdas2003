@@ -2,7 +2,7 @@
 
 Hi there 👋
 
- 🏠 I am Sourav,working as an Full Stack Developer intern at Project28
+ 🏠 I am Sourav,Ex-Full Stack Developer intern at Project28
  
  💻 I,am a full stack MERN Developer and a content writer on twitter
  
