@@ -2,7 +2,7 @@
 
 Hi there 👋
 
- 🏠 I am Sourav,Ex-Full Stack Developer intern at Project28
+ 🏠 I am Sourav, currently working as a SDE intern intern at SalesUP
  
  💻 I,am a full stack MERN Developer and a content writer on twitter
  
