@@ -2,13 +2,13 @@
 
 Hi there 👋
 
- 🏠 I am Sourav, currently working as a SDE intern intern at SalesUP
+ 🏠 I am Sourav, currently working as a SDE intern at SalesUP
  
  💻 I,am a full stack MERN Developer and a content writer on twitter
  
- 👨‍🎓 Undergraduate Student at RCCIIT, Kolkata (B.tech, IT) with a CGPA of 9.33 (Till 2nd semester)
+ 👨‍🎓 Final year undergraduate Student at RCCIIT, Kolkata (B.tech, IT) with a CGPA of 8.07 (Till 6th semester)
  
- 🌱 I’m currently learning Fabric JS & DSA
+ 🌱 I’m currently learning Fabric JS & System Design 
  
  💕 Interests: Listening songs, drawing and football ⚽
 
